@@ -1,0 +1,3 @@
+[submodule "src/3rdparty/qextensionsystem"]
+	path = src/3rdparty/qextensionsystem
+	url = git@github.com:DigitalWorkbench/QExtensionSystem.git

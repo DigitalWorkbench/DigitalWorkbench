@@ -1,0 +1,15 @@
+#src/3rdparty/*
+*.pro.*
+*.qmake*
+buil*
+*release*
+*debug*
+
+*.o
+*.a
+*.exe
+*.dll
+*.so*
+
+
+Makefile*
